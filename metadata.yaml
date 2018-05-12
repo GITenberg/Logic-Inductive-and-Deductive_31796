@@ -1,0 +1,28 @@
+_repo: Logic-Inductive-and-Deductive_31796
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Minto, William
+    birthdate: 1845
+    deathdate: 1893
+    gutenberg_agent_id: '5735'
+    url: http://www.gutenberg.org/2009/agents/5735
+    wikipedia: http://en.wikipedia.org/wiki/William_Minto
+description: ''
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2010-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31796'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Logic'
+- !lcc 'BC'
+title: Logic, Inductive and Deductive
+url: http://www.gutenberg.org/ebooks/31796
